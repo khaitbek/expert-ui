@@ -144,7 +144,7 @@ export const Link: Story = {
         args
       }
     },
-    template: '<Button variant="link"> Link Button </Button />'
+    template: '<Button variant="link"> Link  </Button />'
   })
 }
 
